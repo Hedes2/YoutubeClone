@@ -1,2 +1,1 @@
-# YoutubeClone
-KodeInKGP Tech Task
+This project is a static frontend clone of YouTube, built entirely using HTML and CSS. It replicates the visual layout and design of the YouTube homepage, including the header, sidebar, video grid, and responsive layout
